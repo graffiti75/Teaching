@@ -17,7 +17,7 @@ Complete exercises below
 
 ### Solution
 
-- In order to add the `ReciclerView` for you code, you need to follow some steps:
+- In order to add the `RecyclerView` for you code, you need to follow some steps:
 	- **1.** Inside `fragment_datetime.xml`, remove the `TextView` and add a `RecyclerView`:
 		```
 		<androidx.recyclerview.widget.RecyclerView
