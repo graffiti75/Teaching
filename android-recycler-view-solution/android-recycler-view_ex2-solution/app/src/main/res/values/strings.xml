@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-recycler-view_ex2-solution</string>
+
+    <string name="add_time">Add Time</string>
+</resources>
