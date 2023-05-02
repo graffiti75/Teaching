@@ -4,12 +4,13 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    namespace 'com.cericatto.android_recycler_view_ex2_solution'
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.codeop.android_recycler_view_ex2_solution"
+        applicationId "com.cericatto.android_recycler_view_ex2_solution"
         minSdk 21
-        targetSdk 31
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 

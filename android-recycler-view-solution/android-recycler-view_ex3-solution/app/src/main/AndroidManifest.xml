@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codeop.android_recycler_view_ex3_solution">
+    package="com.cericatto.android_recycler_view_ex3_solution">
 
     <application
         android:allowBackup="true"

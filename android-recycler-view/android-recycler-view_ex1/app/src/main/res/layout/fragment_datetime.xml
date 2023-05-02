@@ -5,7 +5,7 @@
     <data>
         <variable
             name="myViewModel"
-            type="com.codeop.android_recycler_view_ex1.DatetimeViewModel" />
+            type="com.cericatto.android_recycler_view_ex1.DatetimeViewModel" />
     </data>
 
     <androidx.appcompat.widget.LinearLayoutCompat
